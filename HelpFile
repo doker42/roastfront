@@ -40,3 +40,5 @@
 
 
 			<NewsItem data={ this.state.news } />
+
+{*   test added for ssh test *]
